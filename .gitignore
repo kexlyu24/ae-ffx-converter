@@ -1,0 +1,4 @@
+*.ffx
+__pycache__/
+*.py[cod]
+AE2025/
